@@ -1,0 +1,15 @@
+C:\HomeWork2\HomeW4\25\bin\Debug\net6.0\25.exe
+C:\HomeWork2\HomeW4\25\bin\Debug\net6.0\25.deps.json
+C:\HomeWork2\HomeW4\25\bin\Debug\net6.0\25.runtimeconfig.json
+C:\HomeWork2\HomeW4\25\bin\Debug\net6.0\25.dll
+C:\HomeWork2\HomeW4\25\bin\Debug\net6.0\25.pdb
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\25.csproj.AssemblyReference.cache
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\25.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\25.AssemblyInfoInputs.cache
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\25.AssemblyInfo.cs
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\25.csproj.CoreCompileInputs.cache
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\25.dll
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\refint\25.dll
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\25.pdb
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\25.genruntimeconfig.cache
+C:\HomeWork2\HomeW4\25\obj\Debug\net6.0\ref\25.dll
